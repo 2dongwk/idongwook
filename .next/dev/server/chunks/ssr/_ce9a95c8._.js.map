@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/wk/Desktop/Wk/%E1%84%8B%E1%85%B0%E1%86%B8/Portfolio2.0/src/app/layout.tsx"],"sourcesContent":["import React from \"react\";\nimport \"./globals.css\";\n\nexport default function RootLayout({ children }: { children: React.ReactNode }) {\n    return (\n        <html lang=\"ko\">\n            <body className=\"min-h-dvh bg-background text-foreground\">{children}</body>\n        </html>\n    );\n}"],"names":[],"mappings":";;;;;;;AAGe,SAAS,WAAW,EAAE,QAAQ,EAAiC;IAC1E,qBACI,8OAAC;QAAK,MAAK;kBACP,cAAA,8OAAC;YAAK,WAAU;sBAA2C;;;;;;;;;;;AAGvE","debugId":null}},
+    {"offset": {"line": 32, "column": 0}, "map": {"version":3,"sources":["file:///Users/wk/Desktop/Wk/%E1%84%8B%E1%85%B0%E1%86%B8/Portfolio2.0/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,4HACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0],"debugId":null}}]
+}

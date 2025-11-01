@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 14, "column": 0}, "map": {"version":3,"sources":["file:///Users/wk/Desktop/Wk/%E1%84%8B%E1%85%B0%E1%86%B8/Portfolio2.0/src/app/page.tsx"],"sourcesContent":["export default function Page() {\n    return (\n        <main className=\"p-6\">\n            <h1 className=\"text-3xl md:text-5xl font-bold tracking-tight\">\n                포트폴리오 v2 — Tailwind 적용완료\n            </h1>\n        </main>\n    );\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACpB,qBACI,8OAAC;QAAK,WAAU;kBACZ,cAAA,8OAAC;YAAG,WAAU;sBAAgD;;;;;;;;;;;AAK1E","debugId":null}}]
+}
